@@ -13,6 +13,11 @@ An Engineering Manager, Python 4+ years, C 4+ years.
 - Ruby on Rails
 
 -----
+
+[![](https://raw.githubusercontent.com/Trippy3/Trippy3/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Trippy3/Trippy3/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Trippy3/Trippy3/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+-----
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hiroyuki-torii-1bbb54257/)
 
 <!---
