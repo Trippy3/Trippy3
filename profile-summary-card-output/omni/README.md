@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Trippy3/Trippy3/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
