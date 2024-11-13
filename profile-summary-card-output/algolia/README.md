@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Trippy3/Trippy3/main/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    
