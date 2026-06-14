@@ -2,15 +2,7 @@
 [![Contributions](https://badgen.org/img/qiita/hiro-torii/contributions?style=flat)](https://qiita.com/hiro-torii)
 
 ## 👋 Hi, I’m @Trippy3  
-An Engineering Manager, Python 4+ years, C 4+ years.
-
-## 👀 I’m interested in
-- Developer Productivity Engineering, Developer Experience
-- Data Analysis
-- S/W Security
-## 🌱 I’m currently learning 
-- Rust
-- Ruby on Rails
+[Profile](https://flawless-topaz-902.notion.site/About-Me-411480bf90d8433c973e26a661be773d)
 
 -----
 
